@@ -1,0 +1,7 @@
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\bin\Debug\C Sharp Language Basics2.exe.config
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\bin\Debug\C Sharp Language Basics2.exe
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\bin\Debug\C Sharp Language Basics2.pdb
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\obj\Debug\C Sharp Language Basics2.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\obj\Debug\C Sharp Language Basics2.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\obj\Debug\C Sharp Language Basics2.exe
+C:\Users\Brandon\source\repos\C Sharp Language Basics2\C Sharp Language Basics2\obj\Debug\C Sharp Language Basics2.pdb
